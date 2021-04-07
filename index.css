@@ -37,7 +37,7 @@ blockquote, q {
 *{
     box-sizing:border-box;
     max-width: 100%;
-    border:1px solid grey;
+   
 
 }
 /*General Styles*/
@@ -146,10 +146,16 @@ span{
 
 /*footer section style*/
 
-.bottom img{
-    
+.bottom {
+    background-image: url(assets/footer_img.jpg);
+    background-size:cover;
+    max-width:100%;
+   ;
 
+ 
+    
 }
-.bottom nav{
+nav{
     background-color:#F9E7DC;
+   
 }
