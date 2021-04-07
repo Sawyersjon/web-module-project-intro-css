@@ -112,3 +112,44 @@ nav a{
     bottom:20%;
 
 }
+/*Info Section Style*/
+
+.info{
+    background-color: #DDB9A3;
+    color:#ffff;
+    margin:0 3%;
+    text-align:center; 
+    font-size:2.9rem;
+}
+.fire{
+    width:15%;
+    margin:0 auto;
+}
+.fireinfo{
+    text-align:center;
+    margin:0 35%;
+    font-size:2.5rem;
+}
+
+.lodging{
+    width:15%;
+    margin:0 auto;
+}
+.lodginginfo{
+    text-align:center;
+    margin:0 35%;
+    font-size:2.5rem;
+}
+span{
+    font-weight:bold;
+}
+
+/*footer section style*/
+
+.bottom img{
+    
+
+}
+.bottom nav{
+    background-color:#F9E7DC;
+}
